@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M-ISA016
-- 👀 I’m interested in start my journey on coding and share future projects
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I am @M-ISA016
+- 👀 I am interested in sharing my projects and receive tips. I am beginner.  
+- 🌱 I’m currently learning Kotlin;
 - 📫 How to reach me: Isabellaac837@gmail.com
 
 <!---

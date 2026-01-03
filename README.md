@@ -1,6 +1,5 @@
 ## 👋🏼 Hi! I am Maria.
 
-🎓 High School Senior | Future Software Engineer  
 📱 Studying Kotlin with a focus on Android Development  
 💡 Currently learning Object-Oriented Programming (OOP)  
 🚀 Soon: First projects on GitHub!  
